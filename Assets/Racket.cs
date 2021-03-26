@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Racket : MonoBehaviour {
 
-    private float accel = 1000.0f;//加える力の大きさ
+    private float accel = 10.0f;//加える力の大きさ
 
     // Use this for initialization
     void Start () {
